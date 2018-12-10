@@ -1,0 +1,125 @@
+A bicycle produces 0 grams of carbon!
+Select a textile for information:
+1)cotton
+2)nylon
+3)PET(a.k.a. synthetic fleece)
+4)Wool
+5
+Invalid Response, please re-enter your choice.
+Select a textile for information:
+1)cotton
+2)nylon
+3)PET(a.k.a. synthetic fleece)
+4)Wool
+a
+Invalid Response, please re-enter your choice.
+Select a textile for information:
+1)cotton
+2)nylon
+3)PET(a.k.a. synthetic fleece)
+4)Wool
+2
+Nylon produces 5.43g of carbon per Kg of material made.
+Building with   100 square feet:   13400 g of CO2
+Building with   200 square feet:   26800 g of CO2
+Building with   300 square feet:   40200 g of CO2
+Building with   400 square feet:   53600 g of CO2
+Building with   500 square feet:   67000 g of CO2
+Building with   600 square feet:   80400 g of CO2
+Building with   700 square feet:   93800 g of CO2
+Building with   800 square feet:  107200 g of CO2
+Building with   900 square feet:  120600 g of CO2
+Building with  1000 square feet:  134000 g of CO2
+Building with  1100 square feet:  147400 g of CO2
+Building with  1200 square feet:  160800 g of CO2
+Building with  1300 square feet:  174200 g of CO2
+Building with  1400 square feet:  187600 g of CO2
+Building with  1500 square feet:  201000 g of CO2
+Building with  1600 square feet:  214400 g of CO2
+Building with  1700 square feet:  227800 g of CO2
+Building with  1800 square feet:  241200 g of CO2
+Building with  1900 square feet:  254600 g of CO2
+Building with  2000 square feet:  268000 g of CO2
+Building with  2100 square feet:  281400 g of CO2
+Building with  2200 square feet:  294800 g of CO2
+Building with  2300 square feet:  308200 g of CO2
+Building with  2400 square feet:  321600 g of CO2
+Building with  2500 square feet:  335000 g of CO2
+Building with  2600 square feet:  348400 g of CO2
+Building with  2700 square feet:  361800 g of CO2
+Building with  2800 square feet:  375200 g of CO2
+Building with  2900 square feet:  388600 g of CO2
+Building with  3000 square feet:  402000 g of CO2
+Building with  3100 square feet:  415400 g of CO2
+Building with  3200 square feet:  428800 g of CO2
+Building with  3300 square feet:  442200 g of CO2
+Building with  3400 square feet:  455600 g of CO2
+Building with  3500 square feet:  469000 g of CO2
+Building with  3600 square feet:  482400 g of CO2
+Building with  3700 square feet:  495800 g of CO2
+Building with  3800 square feet:  509200 g of CO2
+Building with  3900 square feet:  522600 g of CO2
+Building with  4000 square feet:  536000 g of CO2
+Building with  4100 square feet:  549400 g of CO2
+Building with  4200 square feet:  562800 g of CO2
+Building with  4300 square feet:  576200 g of CO2
+Building with  4400 square feet:  589600 g of CO2
+Building with  4500 square feet:  603000 g of CO2
+Building with  4600 square feet:  616400 g of CO2
+Building with  4700 square feet:  629800 g of CO2
+Building with  4800 square feet:  643200 g of CO2
+Building with  4900 square feet:  656600 g of CO2
+Building with  5000 square feet:  670000 g of CO2
+Building with  5100 square feet:  683400 g of CO2
+Building with  5200 square feet:  696800 g of CO2
+Building with  5300 square feet:  710200 g of CO2
+Building with  5400 square feet:  723600 g of CO2
+Building with  5500 square feet:  737000 g of CO2
+Building with  5600 square feet:  750400 g of CO2
+Building with  5700 square feet:  763800 g of CO2
+Building with  5800 square feet:  777200 g of CO2
+Building with  5900 square feet:  790600 g of CO2
+Building with  6000 square feet:  804000 g of CO2
+Building with  6100 square feet:  817400 g of CO2
+Building with  6200 square feet:  830800 g of CO2
+Building with  6300 square feet:  844200 g of CO2
+Building with  6400 square feet:  857600 g of CO2
+Building with  6500 square feet:  871000 g of CO2
+Building with  6600 square feet:  884400 g of CO2
+Building with  6700 square feet:  897800 g of CO2
+Building with  6800 square feet:  911200 g of CO2
+Building with  6900 square feet:  924600 g of CO2
+Building with  7000 square feet:  938000 g of CO2
+Building with  7100 square feet:  951400 g of CO2
+Building with  7200 square feet:  964800 g of CO2
+Building with  7300 square feet:  978200 g of CO2
+Building with  7400 square feet:  991600 g of CO2
+Building with  7500 square feet: 1005000 g of CO2
+Building with  7600 square feet: 1018400 g of CO2
+Building with  7700 square feet: 1031800 g of CO2
+Building with  7800 square feet: 1045200 g of CO2
+Building with  7900 square feet: 1058600 g of CO2
+Building with  8000 square feet: 1072000 g of CO2
+Building with  8100 square feet: 1085400 g of CO2
+Building with  8200 square feet: 1098800 g of CO2
+Building with  8300 square feet: 1112200 g of CO2
+Building with  8400 square feet: 1125600 g of CO2
+Building with  8500 square feet: 1139000 g of CO2
+Building with  8600 square feet: 1152400 g of CO2
+Building with  8700 square feet: 1165800 g of CO2
+Building with  8800 square feet: 1179200 g of CO2
+Building with  8900 square feet: 1192600 g of CO2
+Building with  9000 square feet: 1206000 g of CO2
+Building with  9100 square feet: 1219400 g of CO2
+Building with  9200 square feet: 1232800 g of CO2
+Building with  9300 square feet: 1246200 g of CO2
+Building with  9400 square feet: 1259600 g of CO2
+Building with  9500 square feet: 1273000 g of CO2
+Building with  9600 square feet: 1286400 g of CO2
+Building with  9700 square feet: 1299800 g of CO2
+Building with  9800 square feet: 1313200 g of CO2
+Building with  9900 square feet: 1326600 g of CO2
+Building with 10000 square feet: 1340000 g of CO2
+
+Process returned 0 (0x0)   execution time : 7.456 s
+Press any key to continue.
