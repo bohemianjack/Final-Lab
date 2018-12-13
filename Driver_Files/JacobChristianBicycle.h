@@ -1,10 +1,3 @@
-// Author:				Jacob Christian
-// Assignment Number:   Exam 3, part 2
-// File Name:			JacobChristianLabBicycle.h
-// Course/Section:      COSC 1337 Section 014
-// Date:                December 13th, 2018
-// Instructor:          Dr. Bernard Ku
-
 // Bicycle.h
 // Calculate the carbon footprint of a bicycle.
 #ifndef BICYCLE_H
@@ -27,6 +20,7 @@ public:
    virtual void getCarbonFootPrint() {
       cout << "A bicycle produces 0 grams of carbon!" << endl;
    }
+   ~Bicycle(){} //Destructor for subclass
 };
 
 #endif
