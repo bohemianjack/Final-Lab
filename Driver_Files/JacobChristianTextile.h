@@ -1,26 +1,17 @@
-// Author:				Jacob Christian
-// Assignment Number:   Exam 3, part 2
-// File Name:			JacobChristianLabBicycle.h
-// Course/Section:      COSC 1337 Section 014
-// Date:                December 13th, 2018
-// Instructor:          Dr. Bernard Ku
-
-// Bicycle.h
-// Calculate the carbon footprint of a bicycle.
 #ifndef TEXTILE_H
 #define TEXTILE_H
 
-
-#include <iostream>
 #include "JacobChristianCarbonFootprint.h"
 
 using namespace std;
 
-// bicycle class that prints 0g of CO2
+// textile class that gives a switch statement to the user to give them information
+// about a clothing material and how much carbon is emitted per kg.
 class Textile : public CarbonFootPrint
 {
-public:
+private:
     int menuChoice;
+public:
     virtual void getCarbonFootPrint() override
     {
         do {
@@ -48,7 +39,7 @@ public:
             }
         }while(menuChoice < 1 || menuChoice > 4 || cin.fail());
     }
+    ~Textile(){} //Destructor for derived class
 };
 
 #endif //TEXTILE_H
-
