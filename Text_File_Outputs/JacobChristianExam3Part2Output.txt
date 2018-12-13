@@ -4,13 +4,6 @@ Select a textile for information:
 2)nylon
 3)PET(a.k.a. synthetic fleece)
 4)Wool
-5
-Invalid Response, please re-enter your choice.
-Select a textile for information:
-1)cotton
-2)nylon
-3)PET(a.k.a. synthetic fleece)
-4)Wool
 a
 Invalid Response, please re-enter your choice.
 Select a textile for information:
@@ -18,8 +11,22 @@ Select a textile for information:
 2)nylon
 3)PET(a.k.a. synthetic fleece)
 4)Wool
-2
-Nylon produces 5.43g of carbon per Kg of material made.
+0
+Invalid Response, please re-enter your choice.
+Select a textile for information:
+1)cotton
+2)nylon
+3)PET(a.k.a. synthetic fleece)
+4)Wool
+6
+Invalid Response, please re-enter your choice.
+Select a textile for information:
+1)cotton
+2)nylon
+3)PET(a.k.a. synthetic fleece)
+4)Wool
+3
+PET produces 5.55g of carbon per Kg of material made.
 Building with   100 square feet:   13400 g of CO2
 Building with   200 square feet:   26800 g of CO2
 Building with   300 square feet:   40200 g of CO2
@@ -120,6 +127,9 @@ Building with  9700 square feet: 1299800 g of CO2
 Building with  9800 square feet: 1313200 g of CO2
 Building with  9900 square feet: 1326600 g of CO2
 Building with 10000 square feet: 1340000 g of CO2
+
+For a nifty chart explaining the CO2 amounts per square foot, please see
+file 'squareFootageCarbonFootPrint.txt' located in the file directory.
 
 Process returned 0 (0x0)   execution time : 7.456 s
 Press any key to continue.
